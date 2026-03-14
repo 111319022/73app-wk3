@@ -23,14 +23,14 @@ struct ContentView: View {
                 }
             
             // 分頁2：wishlist
-            Text("Wishlist Content")
+            Text("Wishlist 目前空空如也")
                 .tabItem {
                     Image(systemName: "bookmark")
                     Text("Wishlist")
                 }
             
             // 分頁3：mybooks
-            Text("My Books Content")
+            Text("My Books 目前空空如也")
                 .tabItem {
                     Image(systemName: "book.pages")
                     Text("My books")
